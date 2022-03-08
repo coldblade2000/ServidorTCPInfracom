@@ -50,6 +50,10 @@ public class ThreadServer extends Thread {
                 barrier.await();
                 //Send file, all clients are ready
                 sendFile(filepath);
+                String receivedHash = in.readUTF();
+                if (receivedHash.equals("ERROR")){
+                    MainServer.log("");
+                }
 
             } catch (InterruptedException | BrokenBarrierException e) {
                 e.printStackTrace();
