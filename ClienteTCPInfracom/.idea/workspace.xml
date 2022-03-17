@@ -15,7 +15,6 @@
       <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-13-16.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-18-04.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/out/production/ServidorTCPInfracom/com/company/MainServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/out/production/ServidorTCPInfracom/com/company/MainServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/out/production/ServidorTCPInfracom/com/company/ThreadServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/out/production/ServidorTCPInfracom/com/company/ThreadServer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/src/com/company/MainServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/src/com/company/MainServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/src/com/company/ThreadServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/src/com/company/ThreadServer.java" afterDir="false" />
     </list>
@@ -64,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647543411149</updated>
-      <workItem from="1647543411899" duration="3451000" />
+      <workItem from="1647543411899" duration="4711000" />
     </task>
     <servers />
   </component>

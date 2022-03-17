@@ -19,7 +19,7 @@ public class clientThread extends Thread {
     @Override
     public void run() {
         try{
-            Socket clientSocket = new Socket("localhost", 25505);
+            Socket clientSocket = new Socket("192.168.135.134", 25505);
             DataOutputStream out = new DataOutputStream(clientSocket.getOutputStream());
             DataInputStream in = new DataInputStream(clientSocket.getInputStream());
             System.out.println("Cliente " + id + " conectado");
