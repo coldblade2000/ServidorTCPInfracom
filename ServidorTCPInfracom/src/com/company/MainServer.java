@@ -121,6 +121,7 @@ public class MainServer {
     }
 
     public void start(int port, int clientes, int archivo) throws IOException {
+        log("Starting server on port "+ port);
         serverSocket = new ServerSocket(port);
         threads = new LinkedList<>();
         // Create new ThreadServer for every connection that arrives.
