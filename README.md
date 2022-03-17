@@ -26,6 +26,10 @@ Ejecución:
 
     cd ServidorTCPInfracom/ServidorTCPInfracom/
 
-    javac -cp . src/com/company/*.java -sourcepath src/com/company/*.java -d out/production/ServidorTCPInfracom
+    java -cp . -jar out/artifacts/ServidorTCPInfracom_jar/ServidorTCPInfracom.jar
 
-    java
+#### 2. Funcionamiento del servidor
+
+Una vez ejecutado el servidor le pedira que ingrese el numero de clientes que se deben esperar para enviar el archivo. Ingreselo por consola.
+
+Luego se le pedira escoger el archivo, 1 para 100MB y 2 para 250MB. Escoja el archivo que desee enviar e indiquelo por consola.

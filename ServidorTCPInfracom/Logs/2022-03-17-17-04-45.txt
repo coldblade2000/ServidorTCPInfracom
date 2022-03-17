@@ -1,0 +1,14 @@
+Comenzando servidor del archivo 1 para 1 clientes
+
+El archivo seleccionado es el de 100MB
+El hash del archivo seleccionado es: 2f282b84e7e608d5852449ed940bfc51
+Starting server on port 25505
+New connection created!
+Server started, there are now 1 threads.
+=================================
+Client 0 is ready to connected file.
+File sent to client 0 in 320 milliseconds.
+File sent to client 0 successfully.
+==========================================================
+All threads finished
+Closing server

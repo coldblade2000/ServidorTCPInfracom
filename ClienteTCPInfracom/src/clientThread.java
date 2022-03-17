@@ -68,9 +68,12 @@ public class clientThread extends Thread {
             if (!status){
                 System.out.println("El archivo no coincide con el hash");
                 out.writeUTF("ERROR");
+                out.flush();
             }else{
                 System.out.println("El archivo coincide con el hash");
                 out.writeUTF("OK");
+                out.flush();
+
             }
 
             in.close();
