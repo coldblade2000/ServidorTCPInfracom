@@ -41,17 +41,15 @@ public class clientThread extends Thread {
             FileOutputStream fos = new FileOutputStream(filename);
             log += "Nombre Archivo: Cliente" + id + "-Prueba-" + clientes + ".txt"+ "\n";
 
-            // Lee el archivo del DataInputStream y lo escribe en el FileOutputStream
-            int current = 0;
             long startTime = System.currentTimeMillis();
+            // Lee el archivo del DataInputStream y lo escribe en el FileOutputStream
+            int bytes = 0;
+            int current = 0;
             byte[] buffer = new byte[4*1024];
-            int bytesRead = in.read(buffer);
-
-
-            while ((bytesRead) > 1) {
-                fos.write(buffer, 0, bytesRead);
-                current += bytesRead;
-                bytesRead = in.read(buffer);
+            while (fileSize > 0 && (bytes = in.read(buffer, 0, (int)Math.min(buffer.length, fileSize))) != -1) {
+                fos.write(buffer,0,bytes);
+                fileSize -= bytes;      // read upto file size
+                current += bytes;
             }
 
             fos.close();
@@ -64,7 +62,6 @@ public class clientThread extends Thread {
             long elapsedTime = stopTime - startTime;
             log += "Chronometer: " + elapsedTime + "\n";
             log += "-------------------------------------------------------\n";
-
             if (!status){
                 System.out.println("El archivo no coincide con el hash");
                 out.writeUTF("ERROR");

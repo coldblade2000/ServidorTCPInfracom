@@ -16,17 +16,13 @@ Clone el repositorio de GitHub (Como los archivos de transferencia son pesados e
 
 Recree los archivos de tamaño especifico:
 
-    mkdir Archivos
+    cd ServidorTCPInfracom/ServidorTCPInfracom
 
-    truncate -s 250M /ServidorTCPInfracom/ServidorTCPInfracom/Archivos/grande.txt
-
-    truncate -s 100M /ServidorTCPInfracom/ServidorTCPInfracom/Archivos/pequenio.txt
+    mkdir Archivos && truncate -s 250M /Archivos/grande.txt && truncate -s 100M /Archivos/pequenio.txt
 
 Ejecución:
 
-    cd ServidorTCPInfracom/ServidorTCPInfracom/
-
-    java -cp . -jar out/artifacts/ServidorTCPInfracom_jar/ServidorTCPInfracom.jar
+    cd ServidorTCPInfracom/ServidorTCPInfracom/ && java -cp . -jar out/artifacts/ServidorTCPInfracom_jar/ServidorTCPInfracom.jar
 
 #### 2. Funcionamiento del servidor
 
