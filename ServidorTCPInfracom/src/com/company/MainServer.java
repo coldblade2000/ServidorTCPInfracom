@@ -31,9 +31,9 @@ public class MainServer {
 
     public MainServer(int archivo) {
         if (archivo == 1) {
-            filepath = "Archivos/pequenio.mp4";
+            filepath = "./Archivos/pequenio.txt";
         } else {
-            filepath = "Archivos/grande.mp4";
+            filepath = "./Archivos/grande.txt";
         }
         try {
             //Calculate hash of selected file
@@ -49,9 +49,11 @@ public class MainServer {
     }
 
     public static void main(String[] args) throws IOException {
+
         DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy-MM-dd-HH-mm-ss");
         LocalDateTime now = LocalDateTime.now();
-        String filename = dtf.format(now) + ".txt";
+
+        String filename = "./Logs/" + dtf.format(now) + ".txt";
         MainServer.logFW = new FileWriter(filename);
         MainServer.logBW = new BufferedWriter(MainServer.logFW);
         Scanner scan = new Scanner(System.in);
