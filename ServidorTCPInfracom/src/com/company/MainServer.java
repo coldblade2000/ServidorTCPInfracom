@@ -1,5 +1,7 @@
 package com.company;
 
+import com.sun.tools.javac.Main;
+
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
@@ -66,7 +68,7 @@ public class MainServer {
             System.out.println("Cual archivo quieres subir? 1 para el de 100MB o 2 para el de 250MB: ");
             archivo = scan.nextInt();
             if (clientes < 1 || archivo < 1 || archivo > 2) {
-                MainServer.log("Error, opciones invalidas");
+                System.out.println("Error, opciones invalidas");
             } else {
                 break;
             }
@@ -145,6 +147,11 @@ public class MainServer {
                 e.printStackTrace();
             }
         }
+        log("All threads finished");
+        log("Closing server");
+        MainServer.logBW.close();
+        MainServer.logFW.close();
+        stop();
 
     }
 

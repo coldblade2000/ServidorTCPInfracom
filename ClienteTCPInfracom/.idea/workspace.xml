@@ -2,27 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0da92f1-85f6-4b77-8f9d-ea68d1eaece9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClienteTCPInfracom.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ClienteTCPInfracom/clientThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ClienteTCPInfracom/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clientThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-13-17-56.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-13-26-46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-13-30-30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-13-32-33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-13-33-14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-13-35-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-13-35-43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-13-36-35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-13-39-29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-13-45-41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-13-48-08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-13-49-24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cliente.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-13-10-31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-15-21-34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClienteTCPInfracom/clientThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClienteTCPInfracom/clientThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-01-04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-02-23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-02-48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-04-06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-05-33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-08-59.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-13-16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-18-04.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/out/production/ServidorTCPInfracom/com/company/MainServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/out/production/ServidorTCPInfracom/com/company/MainServer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/out/production/ServidorTCPInfracom/com/company/ThreadServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/out/production/ServidorTCPInfracom/com/company/ThreadServer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/src/com/company/MainServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/src/com/company/MainServer.java" afterDir="false" />
@@ -73,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647543411149</updated>
-      <workItem from="1647543411899" duration="1910000" />
+      <workItem from="1647543411899" duration="3451000" />
     </task>
     <servers />
   </component>

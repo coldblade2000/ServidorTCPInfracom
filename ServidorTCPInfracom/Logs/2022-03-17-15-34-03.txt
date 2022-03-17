@@ -1,0 +1,217 @@
+Comenzando servidor del archivo 1 para 30 clientes
+
+El archivo seleccionado es el de 100MB
+El hash del archivo seleccionado es: 2f282b84e7e608d5852449ed940bfc51
+Starting server on port 25505
+New connection created!
+New connection created!
+New connection created!
+New connection created!
+New connection created!
+New connection created!
+New connection created!
+New connection created!
+New connection created!
+New connection created!
+New connection created!
+Server started, there are now 11 threads.
+Server started, there are now 11 threads.
+New connection created!
+Server started, there are now 9 threads.
+New connection created!
+Server started, there are now 13 threads.
+Server started, there are now 13 threads.
+Server started, there are now 13 threads.
+New connection created!
+Server started, there are now 13 threads.
+Server started, there are now 14 threads.
+New connection created!
+Server started, there are now 14 threads.
+Server started, there are now 14 threads.
+Server started, there are now 15 threads.
+New connection created!
+New connection created!
+New connection created!
+Server started, there are now 15 threads.
+New connection created!
+New connection created!
+New connection created!
+New connection created!
+New connection created!
+Server started, there are now 21 threads.
+New connection created!
+New connection created!
+Server started, there are now 25 threads.
+Server started, there are now 25 threads.
+New connection created!
+Server started, there are now 25 threads.
+Server started, there are now 25 threads.
+Server started, there are now 25 threads.
+Server started, there are now 26 threads.
+New connection created!
+Server started, there are now 26 threads.
+Server started, there are now 26 threads.
+Server started, there are now 27 threads.
+New connection created!
+Server started, there are now 27 threads.
+Server started, there are now 27 threads.
+Server started, there are now 28 threads.
+Server started, there are now 28 threads.
+Server started, there are now 28 threads.
+New connection created!
+Server started, there are now 28 threads.
+New connection created!
+Server started, there are now 29 threads.
+Server started, there are now 30 threads.
+=================================
+=================================
+Client 10 is ready to connected file.
+=================================
+Client 27 is ready to connected file.
+=================================
+Client 29 is ready to connected file.
+=================================
+Client 24 is ready to connected file.
+Client 22 is ready to connected file.
+=================================
+Client 9 is ready to connected file.
+=================================
+Client 25 is ready to connected file.
+=================================
+Client 11 is ready to connected file.
+=================================
+Client 13 is ready to connected file.
+=================================
+=================================
+Client 4 is ready to connected file.
+=================================
+Client 14 is ready to connected file.
+Client 19 is ready to connected file.
+=================================
+Client 3 is ready to connected file.
+=================================
+Client 5 is ready to connected file.
+=================================
+Client 0 is ready to connected file.
+=================================
+Client 18 is ready to connected file.
+=================================
+=================================
+Client 12 is ready to connected file.
+=================================
+Client 16 is ready to connected file.
+=================================
+Client 15 is ready to connected file.
+=================================
+Client 26 is ready to connected file.
+=================================
+Client 8 is ready to connected file.
+Client 17 is ready to connected file.
+=================================
+=================================
+Client 6 is ready to connected file.
+Client 21 is ready to connected file.
+=================================
+Client 28 is ready to connected file.
+=================================
+Client 23 is ready to connected file.
+=================================
+Client 2 is ready to connected file.
+=================================
+Client 20 is ready to connected file.
+=================================
+Client 7 is ready to connected file.
+=================================
+Client 1 is ready to connected file.
+File sent to client 11 in 2233 milliseconds.
+File sent to client 7 in 2394 milliseconds.
+File sent to client 18 in 2543 milliseconds.
+File sent to client 10 in 2641 milliseconds.
+File sent to client 1 in 2736 milliseconds.
+File sent to client 27 in 2791 milliseconds.
+File sent to client 12 in 2782 milliseconds.
+File sent to client 8 in 2842 milliseconds.
+File sent to client 13 in 2867 milliseconds.
+File sent to client 14 in 2915 milliseconds.
+File sent to client 17 in 2958 milliseconds.
+File sent to client 9 in 3039 milliseconds.
+File sent to client 2 in 3117 milliseconds.
+File sent to client 5 in 3276 milliseconds.
+File sent to client 11 successfully.
+==========================================================
+File sent to client 7 successfully.
+==========================================================
+File sent to client 18 successfully.
+==========================================================
+File sent to client 10 successfully.
+==========================================================
+File sent to client 20 in 3355 milliseconds.
+File sent to client 4 in 3393 milliseconds.
+File sent to client 0 in 3419 milliseconds.
+File sent to client 6 in 3483 milliseconds.
+File sent to client 1 successfully.
+==========================================================
+File sent to client 19 in 3554 milliseconds.
+File sent to client 27 successfully.
+==========================================================
+File sent to client 28 in 3569 milliseconds.
+File sent to client 15 in 3629 milliseconds.
+File sent to client 8 successfully.
+==========================================================
+File sent to client 13 successfully.
+==========================================================
+File sent to client 12 successfully.
+==========================================================
+File sent to client 16 in 3764 milliseconds.
+File sent to client 14 successfully.
+==========================================================
+File sent to client 17 successfully.
+==========================================================
+File sent to client 25 in 3842 milliseconds.
+File sent to client 3 in 3870 milliseconds.
+File sent to client 9 successfully.
+==========================================================
+File sent to client 2 successfully.
+==========================================================
+File sent to client 26 in 4003 milliseconds.
+File sent to client 29 in 4079 milliseconds.
+File sent to client 23 in 4085 milliseconds.
+File sent to client 5 successfully.
+==========================================================
+File sent to client 21 in 4179 milliseconds.
+File sent to client 24 in 4215 milliseconds.
+File sent to client 6 successfully.
+==========================================================
+File sent to client 20 successfully.
+==========================================================
+File sent to client 19 successfully.
+==========================================================
+File sent to client 22 in 4302 milliseconds.
+File sent to client 4 successfully.
+==========================================================
+File sent to client 0 successfully.
+==========================================================
+File sent to client 15 successfully.
+==========================================================
+File sent to client 25 successfully.
+==========================================================
+File sent to client 28 successfully.
+==========================================================
+File sent to client 3 successfully.
+==========================================================
+File sent to client 16 successfully.
+==========================================================
+File sent to client 26 successfully.
+==========================================================
+File sent to client 29 successfully.
+==========================================================
+File sent to client 23 successfully.
+==========================================================
+File sent to client 24 successfully.
+==========================================================
+File sent to client 21 successfully.
+==========================================================
+File sent to client 22 successfully.
+==========================================================
+All threads finished
+Closing server

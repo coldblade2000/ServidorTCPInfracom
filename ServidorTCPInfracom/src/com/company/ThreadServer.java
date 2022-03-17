@@ -1,5 +1,7 @@
 package com.company;
 
+import com.sun.tools.javac.Main;
+
 import java.io.*;
 import java.net.Socket;
 import java.util.concurrent.BrokenBarrierException;
@@ -13,6 +15,7 @@ public class ThreadServer extends Thread {
     private final DataInputStream in;
     private final MainServer mainServer;
     private String filepath;
+    private int clientId = 0;
 
     public ThreadServer(String filepath, String hash, Socket clientSocket, DataOutputStream out, DataInputStream in, MainServer mainServer) {
 
@@ -35,6 +38,9 @@ public class ThreadServer extends Thread {
             while (true) {
                 try {
                     if (in.readUTF().trim().equalsIgnoreCase("yes")) {
+                        clientId = in.readInt();
+                        MainServer.log("=================================");
+                        MainServer.log("Client " + clientId + " is ready to connected file.");
                         break;
                     } else {
                         out.writeUTF("Invalid command, please sent \"YES\" to confirm you're ready to receive file. ");
@@ -44,14 +50,18 @@ public class ThreadServer extends Thread {
                 }
             }
             try {
-                MainServer.log("Waiting for other connections to send file. Currently " + (1 + barrier.getNumberWaiting()) + " threads waiting to send file.");
                 out.writeUTF("Waiting for other connections to send file. Currently " + (1 + barrier.getNumberWaiting()) + " threads waiting to send file.");
                 // Barrier that waits until all clients have connected
                 barrier.await();
                 //Send file, all clients are ready
                 sendFile(filepath);
                 String recieved = in.readUTF();
-
+                if(recieved.equalsIgnoreCase("OK")){
+                    MainServer.log("File sent to client " + clientId + " successfully.");
+                }else{
+                    MainServer.log("File sent to client " + clientId + " failed.");
+                }
+                MainServer.log("==========================================================");
             } catch (InterruptedException | BrokenBarrierException e) {
                 e.printStackTrace();
                 //Remove thread from threadlist if the connection drops or something else happens
@@ -71,6 +81,7 @@ public class ThreadServer extends Thread {
         // send file size
         out.writeLong(file.length());
         // break file into chunks
+        long startTime = System.currentTimeMillis();
         byte[] buffer = new byte[4*1024];
         while ((bytes=fileInputStream.read(buffer))!=-1){
             out.write(buffer,0,bytes);
@@ -78,6 +89,9 @@ public class ThreadServer extends Thread {
 
         }
         out.write(-1);
+        long stopTime = System.currentTimeMillis();
+        long elapsedTime = stopTime - startTime;
+        MainServer.log("File sent to client " + clientId + " in " + elapsedTime + " milliseconds.");
         fileInputStream.close();
     }
 

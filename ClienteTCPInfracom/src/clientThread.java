@@ -28,6 +28,7 @@ public class clientThread extends Thread {
             System.out.println(handshake);
             if(handshake.equals("Conection successful. Please send \"YES\" to confirm you're ready to receive file. ")) {
                 out.writeUTF("YES");
+                out.writeInt(id);
             }
             String barrierStatus = in.readUTF();
             System.out.println(barrierStatus);
