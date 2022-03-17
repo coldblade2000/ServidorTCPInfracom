@@ -138,6 +138,13 @@ public class MainServer {
             connectionServer.start();
 
         }
+        for (ThreadServer t : threads) {
+            try {
+                t.join();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
 
     }
 
