@@ -1,0 +1,211 @@
+Cliente 2 conectado
+Nombre Archivo: Cliente2-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 22909
+-------------------------------------------------------
+
+Cliente 9 conectado
+Nombre Archivo: Cliente9-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 25072
+-------------------------------------------------------
+
+Cliente 3 conectado
+Nombre Archivo: Cliente3-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 25539
+-------------------------------------------------------
+
+Cliente 8 conectado
+Nombre Archivo: Cliente8-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 25823
+-------------------------------------------------------
+
+Cliente 10 conectado
+Nombre Archivo: Cliente10-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 26011
+-------------------------------------------------------
+
+Cliente 15 conectado
+Nombre Archivo: Cliente15-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 26220
+-------------------------------------------------------
+
+Cliente 27 conectado
+Nombre Archivo: Cliente27-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 26260
+-------------------------------------------------------
+
+Cliente 7 conectado
+Nombre Archivo: Cliente7-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 26401
+-------------------------------------------------------
+
+Cliente 1 conectado
+Nombre Archivo: Cliente1-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 26870
+-------------------------------------------------------
+
+Cliente 24 conectado
+Nombre Archivo: Cliente24-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 27242
+-------------------------------------------------------
+
+Cliente 29 conectado
+Nombre Archivo: Cliente29-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 27474
+-------------------------------------------------------
+
+Cliente 21 conectado
+Nombre Archivo: Cliente21-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 27590
+-------------------------------------------------------
+
+Cliente 20 conectado
+Nombre Archivo: Cliente20-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 27557
+-------------------------------------------------------
+
+Cliente 19 conectado
+Nombre Archivo: Cliente19-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 27682
+-------------------------------------------------------
+
+Cliente 26 conectado
+Nombre Archivo: Cliente26-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 27868
+-------------------------------------------------------
+
+Cliente 12 conectado
+Nombre Archivo: Cliente12-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 27968
+-------------------------------------------------------
+
+Cliente 25 conectado
+Nombre Archivo: Cliente25-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 27945
+-------------------------------------------------------
+
+Cliente 0 conectado
+Nombre Archivo: Cliente0-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 28394
+-------------------------------------------------------
+
+Cliente 14 conectado
+Nombre Archivo: Cliente14-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 28450
+-------------------------------------------------------
+
+Cliente 6 conectado
+Nombre Archivo: Cliente6-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 28479
+-------------------------------------------------------
+
+Cliente 16 conectado
+Nombre Archivo: Cliente16-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 28562
+-------------------------------------------------------
+
+Cliente 18 conectado
+Nombre Archivo: Cliente18-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 28966
+-------------------------------------------------------
+
+Cliente 13 conectado
+Nombre Archivo: Cliente13-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 29099
+-------------------------------------------------------
+
+Cliente 28 conectado
+Nombre Archivo: Cliente28-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 29150
+-------------------------------------------------------
+
+Cliente 5 conectado
+Nombre Archivo: Cliente5-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 29350
+-------------------------------------------------------
+
+Cliente 11 conectado
+Nombre Archivo: Cliente11-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 29408
+-------------------------------------------------------
+
+Cliente 23 conectado
+Nombre Archivo: Cliente23-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 29517
+-------------------------------------------------------
+
+Cliente 17 conectado
+Nombre Archivo: Cliente17-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 29521
+-------------------------------------------------------
+
+Cliente 22 conectado
+Nombre Archivo: Cliente22-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 29496
+-------------------------------------------------------
+
+Cliente 4 conectado
+Nombre Archivo: Cliente4-Prueba-30.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 29545
+-------------------------------------------------------
+
+

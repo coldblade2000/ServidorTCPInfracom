@@ -29,3 +29,15 @@ Ejecución:
 Una vez ejecutado el servidor le pedira que ingrese el numero de clientes que se deben esperar para enviar el archivo. Ingreselo por consola.
 
 Luego se le pedira escoger el archivo, 1 para 100MB y 2 para 250MB. Escoja el archivo que desee enviar e indiquelo por consola.
+
+Solo cuando el servidor le indique que ya se inicializo, ejecute el cliente.
+
+#### 3. Instalacion del cliente.
+
+Similar al paso 1, clone el repositorio en su maquina Windows, procure tener Intellij IDEA instalado.
+
+Abra el proyecto en Intellij y ejecute el archivo main.java del cliente.
+
+#### 4. Funcionamiento del cliente
+
+Cuando el cliente le pida el numero de clientes, ingrese por consola el mismo numero que le ingreso al servidor en cuanto a numero de clientes. El cliente procedera a realizar las conexiones y descargar los archivos.
