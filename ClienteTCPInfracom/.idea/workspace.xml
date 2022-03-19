@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0da92f1-85f6-4b77-8f9d-ea68d1eaece9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArchivosRecibidos/Cliente0-Prueba-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/2022-03-17-17-43-46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/2022-03-17-17-48-14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/2022-03-17-17-52-43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/2022-03-17-17-54-13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/2022-03-17-17-55-37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/2022-03-17-18-00-46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/2022-03-17-18-04-26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logs/2022-03-17-18-07-01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-15-21-34.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClienteTCPInfracom/clientThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClienteTCPInfracom/clientThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-01-04.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-02-23.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-02-48.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-04-06.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-05-33.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-08-59.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-13-16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/Logs/2022-03-17-14-18-04.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/out/production/ServidorTCPInfracom/com/company/MainServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/out/production/ServidorTCPInfracom/com/company/MainServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServidorTCPInfracom/src/com/company/ThreadServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ServidorTCPInfracom/src/com/company/ThreadServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +25,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PC/Laboratorio" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -71,6 +52,9 @@
       <option name="presentableId" value="Default" />
       <updated>1647543411149</updated>
       <workItem from="1647543411899" duration="9522000" />
+      <workItem from="1647586161672" duration="1000" />
+      <workItem from="1647635193815" duration="19000" />
+      <workItem from="1647710427587" duration="602000" />
     </task>
     <servers />
   </component>
