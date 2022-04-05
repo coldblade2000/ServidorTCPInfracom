@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ServidorTCPInfracom1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ServidorTCPInfracom/out/artifacts/ServidorTCPInfracom_jar/ServidorTCPInfracom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

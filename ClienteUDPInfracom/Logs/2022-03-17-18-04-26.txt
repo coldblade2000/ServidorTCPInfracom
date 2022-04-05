@@ -1,0 +1,8 @@
+Cliente 0 conectado
+Nombre Archivo: Cliente0-Prueba-1.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 2033
+-------------------------------------------------------
+
+

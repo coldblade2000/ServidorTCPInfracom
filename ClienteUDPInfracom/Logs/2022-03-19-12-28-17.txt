@@ -1,0 +1,71 @@
+Cliente 0 conectado
+Nombre Archivo: Cliente0-Prueba-10.txt
+Tamaño archivo: 104857600
+Status: OK
+Chronometer: 5186
+-------------------------------------------------------
+
+Cliente 1 conectado
+Nombre Archivo: Cliente1-Prueba-10.txt
+Tamaño archivo: 104857600
+Status: OK
+Chronometer: 5207
+-------------------------------------------------------
+
+Cliente 3 conectado
+Nombre Archivo: Cliente3-Prueba-10.txt
+Tamaño archivo: 104857600
+Status: OK
+Chronometer: 8765
+-------------------------------------------------------
+
+Cliente 4 conectado
+Nombre Archivo: Cliente4-Prueba-10.txt
+Tamaño archivo: 104857600
+Status: OK
+Chronometer: 10356
+-------------------------------------------------------
+
+Cliente 5 conectado
+Nombre Archivo: Cliente5-Prueba-10.txt
+Tamaño archivo: 104857600
+Status: OK
+Chronometer: 10577
+-------------------------------------------------------
+
+Cliente 2 conectado
+Nombre Archivo: Cliente2-Prueba-10.txt
+Tamaño archivo: 104857600
+Status: OK
+Chronometer: 10684
+-------------------------------------------------------
+
+Cliente 9 conectado
+Nombre Archivo: Cliente9-Prueba-10.txt
+Tamaño archivo: 104857600
+Status: OK
+Chronometer: 12110
+-------------------------------------------------------
+
+Cliente 8 conectado
+Nombre Archivo: Cliente8-Prueba-10.txt
+Tamaño archivo: 104857600
+Status: OK
+Chronometer: 12868
+-------------------------------------------------------
+
+Cliente 6 conectado
+Nombre Archivo: Cliente6-Prueba-10.txt
+Tamaño archivo: 104857600
+Status: OK
+Chronometer: 13640
+-------------------------------------------------------
+
+Cliente 7 conectado
+Nombre Archivo: Cliente7-Prueba-10.txt
+Tamaño archivo: 104857600
+Status: OK
+Chronometer: 13685
+-------------------------------------------------------
+
+

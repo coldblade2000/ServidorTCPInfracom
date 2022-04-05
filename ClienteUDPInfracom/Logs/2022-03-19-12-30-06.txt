@@ -1,0 +1,36 @@
+Cliente 1 conectado
+Nombre Archivo: Cliente1-Prueba-5.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 14653
+-------------------------------------------------------
+
+Cliente 3 conectado
+Nombre Archivo: Cliente3-Prueba-5.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 14807
+-------------------------------------------------------
+
+Cliente 4 conectado
+Nombre Archivo: Cliente4-Prueba-5.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 15301
+-------------------------------------------------------
+
+Cliente 0 conectado
+Nombre Archivo: Cliente0-Prueba-5.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 15684
+-------------------------------------------------------
+
+Cliente 2 conectado
+Nombre Archivo: Cliente2-Prueba-5.txt
+Tamaño archivo: 262144000
+Status: OK
+Chronometer: 18806
+-------------------------------------------------------
+
+
