@@ -80,6 +80,7 @@ public class MainServer {
         log("Starting server on port "+ port);
         serverSocket = new ServerSocket(port);
         threads = new LinkedList<>();
+        int i = 0;
         // Create new ThreadServer for every connection that arrives.
         while (threads.size() < clientes) {
             clientSocket = serverSocket.accept();
@@ -87,9 +88,10 @@ public class MainServer {
             DataOutputStream out = new DataOutputStream(clientSocket.getOutputStream());
             DataInputStream in = new DataInputStream(clientSocket.getInputStream());
 
-            ThreadServer connectionServer = new ThreadServer(filepath, clientSocket, out, in, this, tamFragmento);
+            ThreadServer connectionServer = new ThreadServer(filepath, clientSocket, out, in, this, tamFragmento, i);
             threads.add(connectionServer);
             connectionServer.start();
+            i++;
 
         }
         for (ThreadServer t : threads) {

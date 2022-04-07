@@ -27,7 +27,7 @@ public class clientThread extends Thread {
             System.out.println("Cliente " + id + " conectado");
             log += "Cliente " + id + " conectado\n";
 
-            Long fileSize = in.readLong();
+            long fileSize = in.readLong();
             System.out.println("File size: " + fileSize);
 
             String filename = "./ArchivosRecibidos/Cliente" + id + "-Prueba-" + clientes + ".txt";

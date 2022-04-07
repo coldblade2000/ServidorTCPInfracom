@@ -13,10 +13,10 @@ public class ThreadServer extends Thread {
     private final DataInputStream in;
     private final MainServer mainServer;
     private String filepath;
-    private int clientId = 0;
+    private int clientId;
     private int tamFragmento;
 
-    public ThreadServer(String filepath, Socket clientSocket, DataOutputStream out, DataInputStream in, MainServer mainServer, int tamFragmento) {
+    public ThreadServer(String filepath, Socket clientSocket, DataOutputStream out, DataInputStream in, MainServer mainServer, int tamFragmento, int clientId) {
 
         this.filepath = filepath;
         this.clientSocket = clientSocket;
@@ -24,6 +24,7 @@ public class ThreadServer extends Thread {
         this.in = in;
         this.mainServer = mainServer;
         this.tamFragmento = tamFragmento;
+        this.clientId = clientId;
 
     }
 
