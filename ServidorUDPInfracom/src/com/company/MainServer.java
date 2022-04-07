@@ -28,13 +28,8 @@ public class MainServer {
         } else {
             filepath = "./Archivos/grande.txt";
         }
-        try {
-            File file = new File(filepath);
-            log("El archivo seleccionado es el de " + (archivo == 1 ? "100MB" : "250MB"));
-        } catch (NoSuchAlgorithmException | IOException e) {
-            e.printStackTrace();
-
-        }
+        File file = new File(filepath);
+        log("El archivo seleccionado es el de " + (archivo == 1 ? "100MB" : "250MB"));
     }
 
     public static void main(String[] args) throws IOException {
