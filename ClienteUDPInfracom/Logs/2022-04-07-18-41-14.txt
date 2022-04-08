@@ -1,0 +1,7 @@
+Cliente 0 conectado
+Nombre Archivo: Cliente0-Prueba-1.txt
+Tamaño archivo: 104857600
+Chronometer: 1162
+-------------------------------------------------------
+
+
